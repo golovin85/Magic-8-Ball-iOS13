@@ -98,7 +98,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1230;
-				ORGANIZATIONNAME = "The App Brewery";
+				ORGANIZATIONNAME = app.golovin;
 				TargetAttributes = {
 					ADE1FB3F22B3A4B100DD2BD6 = {
 						CreatedOnToolsVersion = 11.0;
@@ -291,12 +291,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4263TH35QV;
 				INFOPLIST_FILE = "Magic 8 Ball/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.appbrewery.Magic-8-Ball";
+				PRODUCT_BUNDLE_IDENTIFIER = "app.golovin.Magic-8-Ball";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -308,12 +309,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4263TH35QV;
 				INFOPLIST_FILE = "Magic 8 Ball/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "co.appbrewery.Magic-8-Ball";
+				PRODUCT_BUNDLE_IDENTIFIER = "app.golovin.Magic-8-Ball";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
